@@ -12,7 +12,7 @@ Dependency (all library include in this repository):
 Support:  
 1. Input a excel (.xls) as download list    
    - This feature is very practical, you can just copy urls from Youtube playlist and save urls to an .xls file  
-   - You don't need to filter urls by yourself, this program can recognize youtube urls in the .xls file.
+   - You don't need to filter urls by yourself, this program can recognize youtube urls in the .xls file.  
    ![demo](https://raw.githubusercontent.com/SAM33/Pytube-excel-list-downloader/master/demo1.JPG)   
    ![demo](https://raw.githubusercontent.com/SAM33/Pytube-excel-list-downloader/master/demo2.JPG)   
 2. Auto load/save download progress to continue your download  
